@@ -61,10 +61,10 @@ By utilizing Streamlit-based user interface for seamless interaction and LangCha
 The **YouTube Q/A Assistant** delivers:  
 - Clear and verbose answers derived directly from the transcript of the video.  
 - Example Output:  
-  ![YouTube QA Assistant.png](#)
+  ![YouTube QA Assistant](YouTube QA Assistant.png)
 - An image showcasing the application's interface and response.
 
 ---
 
 ### **Acknowledgements**  
-**freeCodeCamp.org**: This project draws inspiration from [freeCodeCamp.org's video on YouTube](https://www.youtube.com/watch?v=lG7Uxts9SXs). The concepts and techniques discussed in the video played a significant role in shaping this project. A big thanks to Rishab Kumar for the insightful content!
+**freeCodeCamp.org**: This project draws inspiration from [Langchain Course on YouTube](https://www.youtube.com/watch?v=lG7Uxts9SXs). The concepts and techniques discussed in the video played a significant role in shaping this project. A big thanks to Rishab Kumar for the insightful content!
